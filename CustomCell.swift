@@ -26,7 +26,6 @@ class CustomCell: UITableViewCell {
         return label
     }()
     func setupVeiw(){
-        backgroundColor = UIColor.blue
         contentView.heightAnchor.constraint(greaterThanOrEqualToConstant: 70).isActive = true
         contentView.addSubview(containerView)
         containerView.addSubview(nameLabel)
