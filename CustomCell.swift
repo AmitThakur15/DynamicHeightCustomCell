@@ -1,10 +1,7 @@
-//
-//  ItemCell.swift
-//  CoreDataTutorial
-//
+
 //  Created by Amit Thakur on 10/09/20.
 //  Copyright © 2020 Amit Thakur. All rights reserved.
-//
+
 
 import Foundation
 import UIKit
